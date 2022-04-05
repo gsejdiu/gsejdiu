@@ -4,5 +4,5 @@
 #### - CONÉ NAST GERMANY
 #### - Position: Application Engineer
 #### - Location: München
-#### - E-mail: granit.sejdiu@gmail.com
+#### - E-mail: granit.sejdiu@condenast.de
 #### - Slack: de_sejdiu
